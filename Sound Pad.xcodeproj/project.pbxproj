@@ -13,6 +13,7 @@
 		F52B15801EEA705200D07B12 /* Sound_Pad.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F52B157E1EEA705200D07B12 /* Sound_Pad.xcdatamodeld */; };
 		F52B15821EEA705200D07B12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F52B15811EEA705200D07B12 /* Assets.xcassets */; };
 		F52B15851EEA705200D07B12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F52B15831EEA705200D07B12 /* LaunchScreen.storyboard */; };
+		F52B158D1EEA73E700D07B12 /* soundRecordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F52B158C1EEA73E700D07B12 /* soundRecordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F52B15811EEA705200D07B12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F52B15841EEA705200D07B12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F52B15861EEA705200D07B12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F52B158C1EEA73E700D07B12 /* soundRecordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = soundRecordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F52B15771EEA705200D07B12 /* AppDelegate.swift */,
 				F52B15791EEA705200D07B12 /* ViewController.swift */,
 				F52B157B1EEA705200D07B12 /* Main.storyboard */,
+				F52B158C1EEA73E700D07B12 /* soundRecordViewController.swift */,
 				F52B15811EEA705200D07B12 /* Assets.xcassets */,
 				F52B15831EEA705200D07B12 /* LaunchScreen.storyboard */,
 				F52B15861EEA705200D07B12 /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F52B15801EEA705200D07B12 /* Sound_Pad.xcdatamodeld in Sources */,
+				F52B158D1EEA73E700D07B12 /* soundRecordViewController.swift in Sources */,
 				F52B157A1EEA705200D07B12 /* ViewController.swift in Sources */,
 				F52B15781EEA705200D07B12 /* AppDelegate.swift in Sources */,
 			);
